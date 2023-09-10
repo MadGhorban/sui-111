@@ -6,7 +6,7 @@
   <h3 align="center">Sui</h3>
 
   <p align="center">
-    Welcome to Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model.
+    Welcome to SUI, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model.
     <br />
     <a href="#"><strong>Explore more about Sui »</strong></a>
     <br />
