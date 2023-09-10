@@ -1,5 +1,5 @@
 ---
-title: Sui Code Examples
+title: SUI Code Examples
 ---
 
 This is a placeholder topic for Sui code examples. When you add a new sample, create a section for the example, add a description and then the example.
