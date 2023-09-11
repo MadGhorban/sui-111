@@ -6,7 +6,7 @@ or<p align="center">
   <h3 align="center">Sui</h3>
 
   <p align="center">
-    Welcome to SUI, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model.
+    Welcome to SUI, a next-generation smart contract network with high throughput, low latency, and an asset-oriented programming model.
     <br />
     <a href="#"><strong>Explore more about Sui »</strong></a>
     <br />
@@ -20,7 +20,7 @@ or<p align="center">
 
 |             |             |
 | ----------- | ----------- |
-| Welcome to Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move)! Find everything you need within the [Sui Developer Guides](doc/src/learn/index.md) and supporting materials below.      | <img src="doc/static/Sui_Icon_Brand.png" alt="sui_icon" width="200"/>      |
+| Welcome to Sui, a next-generation smart contract network with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move)! Find everything you need within the [Sui Developer Guides](doc/src/learn/index.md) and supporting materials below.      | <img src="doc/static/Sui_Icon_Brand.png" alt="sui_icon" width="200"/>      |
 
 [![Documentation (main)](https://img.shields.io/badge/docs-main-59f)](https://mystenlabs.github.io/sui)
 
